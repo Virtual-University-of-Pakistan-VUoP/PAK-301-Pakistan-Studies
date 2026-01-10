@@ -1,0 +1,56 @@
+Uri: https://vulms.vu.edu.pk/Courses/PAK301/Images/common/AltConsoleButton.gif
+File Name: C:\Users\syedhasni\Downloads\VU COURSE\PAK-301\vulms.vu.edu.pk\vulms.vu.edu.pk\Courses\PAK301\Images\common\AltConsoleButton.gif
+Content Type: image/gif
+
+Uri: https://vulms.vu.edu.pk/Courses/PAK301/Images/common/Next.jpg
+File Name: C:\Users\syedhasni\Downloads\VU COURSE\PAK-301\vulms.vu.edu.pk\vulms.vu.edu.pk\Courses\PAK301\Images\common\Next.jpg
+Content Type: image/jpeg
+
+Uri: https://vulms.vu.edu.pk/Courses/PAK301/Images/common/Previous.jpg
+File Name: C:\Users\syedhasni\Downloads\VU COURSE\PAK-301\vulms.vu.edu.pk\vulms.vu.edu.pk\Courses\PAK301\Images\common\Previous.jpg
+Content Type: image/jpeg
+
+Uri: https://vulms.vu.edu.pk/Courses/PAK301/Images/common/toc.jpg
+File Name: C:\Users\syedhasni\Downloads\VU COURSE\PAK-301\vulms.vu.edu.pk\vulms.vu.edu.pk\Courses\PAK301\Images\common\toc.jpg
+Content Type: image/jpeg
+
+Uri: https://vulms.vu.edu.pk/Courses/PAK301/Lessons/Lesson_10/Lec10-01.html
+File Name: C:\Users\syedhasni\Downloads\VU COURSE\PAK-301\vulms.vu.edu.pk\vulms.vu.edu.pk\Courses\PAK301\Lessons\Lesson_10\Lec10-01.html
+Content Type: text/html
+
+Uri: https://vulms.vu.edu.pk/Courses/PAK301/Lessons/Lesson_10/Lec10-02.html
+File Name: C:\Users\syedhasni\Downloads\VU COURSE\PAK-301\vulms.vu.edu.pk\vulms.vu.edu.pk\Courses\PAK301\Lessons\Lesson_10\Lec10-02.html
+Content Type: text/html
+
+Uri: https://vulms.vu.edu.pk/Courses/PAK301/Lessons/Lesson_10/Lec10-03.html
+File Name: C:\Users\syedhasni\Downloads\VU COURSE\PAK-301\vulms.vu.edu.pk\vulms.vu.edu.pk\Courses\PAK301\Lessons\Lesson_10\Lec10-03.html
+Content Type: text/html
+
+Uri: https://vulms.vu.edu.pk/Courses/PAK301/Lessons/Lesson_10/Lec10-04.html
+File Name: C:\Users\syedhasni\Downloads\VU COURSE\PAK-301\vulms.vu.edu.pk\vulms.vu.edu.pk\Courses\PAK301\Lessons\Lesson_10\Lec10-04.html
+Content Type: text/html
+
+Uri: https://vulms.vu.edu.pk/Courses/PAK301/Lessons/Lesson_10/Lec10-05.html
+File Name: C:\Users\syedhasni\Downloads\VU COURSE\PAK-301\vulms.vu.edu.pk\vulms.vu.edu.pk\Courses\PAK301\Lessons\Lesson_10\Lec10-05.html
+Content Type: text/html
+
+Uri: https://vulms.vu.edu.pk/Courses/PAK301/Lessons/Lesson_10/Lec10-06.html
+File Name: C:\Users\syedhasni\Downloads\VU COURSE\PAK-301\vulms.vu.edu.pk\vulms.vu.edu.pk\Courses\PAK301\Lessons\Lesson_10\Lec10-06.html
+Content Type: text/html
+
+Uri: https://vulms.vu.edu.pk/Courses/PAK301/Lessons/Lesson_10/Lec10-07.html
+File Name: C:\Users\syedhasni\Downloads\VU COURSE\PAK-301\vulms.vu.edu.pk\vulms.vu.edu.pk\Courses\PAK301\Lessons\Lesson_10\Lec10-07.html
+Content Type: text/html
+
+Uri: https://vulms.vu.edu.pk/Courses/PAK301/Lessons/Lesson_10/Lec10-08.html
+File Name: C:\Users\syedhasni\Downloads\VU COURSE\PAK-301\vulms.vu.edu.pk\vulms.vu.edu.pk\Courses\PAK301\Lessons\Lesson_10\Lec10-08.html
+Content Type: text/html
+
+Uri: https://vulms.vu.edu.pk/Courses/PAK301/Lessons/Lesson_10/Lec10-09.html
+File Name: C:\Users\syedhasni\Downloads\VU COURSE\PAK-301\vulms.vu.edu.pk\vulms.vu.edu.pk\Courses\PAK301\Lessons\Lesson_10\Lec10-09.html
+Content Type: text/html
+
+Uri: https://vulms.vu.edu.pk/Courses/PAK301/Lessons/Lesson_10/Lec10-10.html
+File Name: C:\Users\syedhasni\Downloads\VU COURSE\PAK-301\vulms.vu.edu.pk\vulms.vu.edu.pk\Courses\PAK301\Lessons\Lesson_10\Lec10-10.html
+Content Type: text/html
+
